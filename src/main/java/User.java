@@ -3,7 +3,6 @@ private String name;
 private String aa;
 private Integer aeg;
 private String asdal;
-private int a;
     private void aa(){
         aeg=1;
     }
