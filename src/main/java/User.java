@@ -4,6 +4,6 @@ private String aa;
 private Integer aeg;
 private String asdal;
     private void aa(){
-        aeg=1;
+        aeg=3;
     }
 }
